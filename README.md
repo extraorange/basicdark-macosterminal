@@ -1,4 +1,4 @@
-# Default macOS Tahoe dark mode terminal theme that is static.
+# Static default macOS Tahoe dark mode terminal theme.
 
 1. Open **Terminal.app**
 2. Open **Settings** `CMD + ,`
@@ -6,6 +6,6 @@
 4. Import `Basic Dark.terminal`
 
 ## Preview
-| Dark mode | Light mode |
+| Light mode | Dark mode |
 |----------|------------|
-| ![](screenshots/dark_mode.png) | ![](screenshots/light_mode.png) |
+| ![](screenshots/light_mode.png) | ![](screenshots/dark_mode.png) |
