@@ -8,4 +8,4 @@
 ## Preview
 | Dark mode | Light mode |
 |----------|------------|
-| ![](dark_mode.png) | ![](light_mode.png) |
+| ![](screenshots/dark_mode.png) | ![](screenshots/light_mode.png) |
