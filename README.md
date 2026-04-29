@@ -6,6 +6,4 @@
 4. Import `Basic Dark.terminal`
 
 ## Preview
-| Light mode | Dark mode |
-|----------|------------|
-| ![](screenshots/light_mode.png) | ![](screenshots/dark_mode.png) |
+![Preview](./example.gif)
