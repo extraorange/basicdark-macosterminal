@@ -6,4 +6,4 @@
 4. Import `Basic Dark.terminal`
 
 ## Preview
-![Preview](./example.gif)
+![Preview](./preview.gif)
